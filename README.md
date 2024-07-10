@@ -13,8 +13,8 @@ A demo project written in Swift used for testing VisionOS object tracking capabi
 |**Demos**|
 |:-:|
 |Action Figure Model|
-|<img src="https://github.com/dilmerv/VisionOSObjectTrackingDemo/blob/master/docs/images/Demo_1.gif" width="560">|
+|<img src="https://github.com/dilmerv/VisionOSObjectTrackingDemo/blob/master/Docs/Images/Demo_1.gif" width="560">|
 |Action Figure & PS5 Controller Model|
-|<img src="https://github.com/dilmerv/VisionOSObjectTrackingDemo/blob/master/docs/images/Demo_2.gif" width="560">|
+|<img src="https://github.com/dilmerv/VisionOSObjectTrackingDemo/blob/master/Docs/Images/Demo_2.gif" width="560">|
 |Multiple PS5 Controllers|
-|<img src="https://github.com/dilmerv/VisionOSObjectTrackingDemo/blob/master/docs/images/Demo_3.gif" width="560">|
+|<img src="https://github.com/dilmerv/VisionOSObjectTrackingDemo/blob/master/Docs/Images/Demo_3.gif" width="560">|
